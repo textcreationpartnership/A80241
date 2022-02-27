@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission or, Position: wherein all English subjects, have their undertakings and indevours for the restitution of his sacred Majesty, unto his throne and dignity, though without commission for the same: proved to be lawfull, and their bounden duty, by the word of God, and the law of the land, and the light of reason; and that the statute law of the kingdome is their protection therein. Intended for the satisfaction of all those, who have ingaged, or shall ingage in the sayd undertaking; and an answer unto all those that urge their want of commission against them. By a lover of peace and truth.</title>
+            <author>Lover of peace and truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80241</idno>
+            <idno type="STC">Wing C5556</idno>
+            <idno type="STC">Thomason E453_15</idno>
+            <idno type="STC">ESTC R204933</idno>
+            <idno type="EEBO-CITATION">99864381</idno>
+            <idno type="PROQUEST">99864381</idno>
+            <idno type="VID">161986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161986)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission or, Position: wherein all English subjects, have their undertakings and indevours for the restitution of his sacred Majesty, unto his throne and dignity, though without commission for the same: proved to be lawfull, and their bounden duty, by the word of God, and the law of the land, and the light of reason; and that the statute law of the kingdome is their protection therein. Intended for the satisfaction of all those, who have ingaged, or shall ingage in the sayd undertaking; and an answer unto all those that urge their want of commission against them. By a lover of peace and truth.</title>
+                  <author>Lover of peace and truth.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161986:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 112 -->
+            <p>A COMMISSION OR, POSITION: Wherein all Engliſh Subjects, <hi>have their undertakings and indevours for the reſtitution of his ſacred Majeſty, unto his Throne and Dignity, though without Commiſsion for the ſame:</hi> Proved to be lawfull, and their bounden duty, by the word of God, and the Law of the Land, and the light of Reaſon; and that the Statute Law of the Kingdome is their protection therein.</p>
+            <p>Intended for the ſatisfaction of all thoſe, who have in<g ref="char:EOLhyphen"/>gaged, or ſhall ingage in the ſayd undertaking; and an Anſwer unto all thoſe that urge their want of Commiſſion againſt them.</p>
+            <p>
+               <hi>By a lover of Peace and Truth.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2. Sam. 19.9.10.</hi>
+               </bibl>
+               <p>Why ſpeake ye not a word of bringing the King backe?</p>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:161986:2"/>
+            <!-- PDF PAGE 113 -->
+            <head>The Poſition concerning Loyall Subjects, &amp;c.</head>
+            <p>
+               <note place="margin">In the inſuing diſcourſe, I am not ſo to be underſtood, as that I doe be<g ref="char:EOLhyphen"/>lieve the moſt noble and gal<g ref="char:EOLhyphen"/>lant underta<g ref="char:EOLhyphen"/>kers heerein at preſent doe want Com<g ref="char:EOLhyphen"/>miſſion, but the contrary, this being in<g ref="char:EOLhyphen"/>tended for the ſatisfaction of thoſe that be<g ref="char:EOLhyphen"/>lieve other<g ref="char:EOLhyphen"/>wiſe or may doubt the caſe.</note>
+               <seg rend="decorInit">T</seg>O griefe of heart (deare fellow ſubjects) hea<g ref="char:EOLhyphen"/>ring it reported by ſome friends, ſome ene<g ref="char:EOLhyphen"/>mies unto the peace of our Kingdome, that it is unlawfull and puniſhable by the Lawes of the Land, to raiſe force and armes for the reſtitution of his gratious Majeſty <hi>without Commiſſion:</hi> My duty towards God, mine Allegiance unto my Prince, the dictate of a good conſcience, and my ſervice unto the Common-wealth would not ſuffer me to take reſt (for the ſatisfaction of the Kingdome heerein with<g ref="char:EOLhyphen"/>out ingagem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in defence of this truth, <hi>That it is not onely law<g ref="char:EOLhyphen"/>full, but alſo the duty and Allegiance of all and every Engliſh man to joyne and endeavour for the reſtitution of his ſacred Ma<g ref="char:EOLhyphen"/>jeſty unto his Throne and dignity, though without Commiſſion for the ſame:</hi> Where firſt obſerve, that my meaning is not to main<g ref="char:EOLhyphen"/>taine or defend any ſubjects whatſoever, their taking up of armes, that is leavying and raiſing up of Armies without Commiſſion, and that lawfull too, but in caſe of reſtitution of his (now impriſoned) ſacred Majeſty into his Throne and Dig<g ref="char:EOLhyphen"/>nity, and this (by Gods aſſiſtance) I will make good in diſpite of all truth oppoſers.</p>
+            <p>By
+<list>
+                  <item>1. <hi>The Law of Nature.</hi>
+                  </item>
+                  <item>2. <hi>The Law of the Land.</hi>
+                  </item>
+                  <item>3. <hi>The Law of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. the Law of Nature makes this good in regard unto
+<list>
+                  <item>1. His Majeſty.</item>
+                  <item>2. The two Houſes.</item>
+                  <item>3. Our ſelves.</item>
+               </list>
+            </p>
+            <p n="1">1. It is moſt neceſſary and lawfull to raiſe armes for the re<g ref="char:EOLhyphen"/>ſtitution of our gratious Soveraigne, <hi>in a reſpect unto <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imſelfe,</hi> becauſe both common policy and duty, binde the Subject by the Statute Law of this Land, to reſtraine all manner of ſhame<g ref="char:EOLhyphen"/>full ſlanders againſt their King,<note place="margin">5.6. Ed. 6. ch. 11.</note> and if to defend him from the virulency of tongue and pen, is the duty of the Subject, how much more to reſcue him from the violence of the ſword, and
+<pb n="3" facs="tcp:161986:2"/>
+               <!-- PDF PAGE 113 -->bondage by the hands of Rebells and Traytours? yea and his ſacred Perſon from all poyſon and other danger.</p>
+            <p n="2">2. <hi>In reſpect unto the two Houſes</hi> (for the Kingdome neither hath nor ever had intereſt or concernment, in the Army uſually in the<note n="*" place="margin">There is no Parliament without a King, neither hath any Au<g ref="char:EOLhyphen"/>thority to raiſe an Army in England but the King: See my kingdoms Remedy.</note> language of the beaſt, called the <hi>Parliament Army</hi>) not medling with, but laying aſide their Treaſon and Rebelli<g ref="char:EOLhyphen"/>on, the Kingdome hath no ty nor obligation unto them, becauſe they have betrayed their truſt, and have deprived them by whom they were intruſted, as much as in them lay of every part of their greateſt happines. <hi>viz</hi> Their God and Religio<g ref="char:cmbAbbrStroke">̄</g>, their King &amp; Laws, their Liberties &amp; Immunities, by Tyranny, Op<g ref="char:EOLhyphen"/>preſſion, and Uſurpation, and doe refuſe and neglect to act and performe any thing tending to their good and benefit, though their owne Oathes, Votes, Proteſtations, and Covenants, with their Declarations, and Ordinances, would lead them there<g ref="char:EOLhyphen"/>unto; therefore the Kingdome may and ought, moving though it were but upon their owne ſaid principles, beſides the Law of the Land, to joyne and endeavour for his Majeſties Reſtitution, and reſtoration unto his Throne and dignity.</p>
+            <p n="3">3. <hi>In reſpect unto our ſelves,</hi> the people of England; it is Lawfull for theſe Reaſons.</p>
+            <p n="1">1. Every thing is bound by nature to ſeeke and labour after the preſervation of it ſelfe, and to prevent its Ruine and de<g ref="char:EOLhyphen"/>ſtruction, which of this Kingdome is threatned, <hi>by ſevering and ſeperating of the King, the Law and the Kingdome,</hi> as hath beene ſomtimes maintained by the oppoſite party, <hi>ſee that ever to be renowned Judge Jenkins,</hi> p. 175 therefore to prevent Ru<g ref="char:EOLhyphen"/>ine, and deſtruction, enjoynes endeavours for the reſtoration of his Majeſty.</p>
+            <p n="2">2. Conſidering we have by the two Houſes loſt our Birth<g ref="char:EOLhyphen"/>rights, happineſſe, and proſperity, with effuſion of much inno<g ref="char:EOLhyphen"/>cent bloud, and the expence of vaſt treaſure, which the King<g ref="char:EOLhyphen"/>dome can never recover without his Majeſties freedome, ho<g ref="char:EOLhyphen"/>nour, and ſafety; without which we ſhall never enjoy mo<g ref="char:EOLhyphen"/>ment of quiet, nor ſafety to our perſons, wives, children, nor eſtates: and that the King being <hi>Medicus Regni,</hi> the Phyſitian of the Kingdome, without him the Nation is irreco<g ref="char:EOLhyphen"/>verably ſick; and he being <hi>Pater Patriae,</hi> the Father of our
+<pb n="4" facs="tcp:161986:3"/>
+               <!-- PDF PAGE 114 -->Countrey, without him all Engliſh men are miſerable Orphans and he being <hi>ſponſus Regni,</hi> the Husband of the Realme, with<g ref="char:EOLhyphen"/>out him all England is a widdow; each whereof, much more all, if not remedied will prove fatall, unto ſo notable a free-born people: unto but common reaſon therefore the leaſt of theſe are ſtronger, and of greater authority then any paper Com<g ref="char:EOLhyphen"/>miſſion ſigned and ſealed by the pretended two Houſes, and may move every ſerious &amp; ſober minded man to joyn, &amp; endea<g ref="char:EOLhyphen"/>vour for the reſtitution of our gracious King: and whoſoever ſhall upon ſound and honeſt principles, without ſiniſter ends uſe his beſt abilities to effect the ſame, ſhall be ſure to beget preſent happineſſe to himſelfe and his fellow Subjects; and ſhall deſervedly be honoured, and renowned unto eternity, and enjoy preſent favour with God and man.</p>
+            <p n="2">2. As the Law and light of nature maintaines this verity, ſo likewiſe the Law of the Land, <hi>both reaſt and pretended,</hi> firſt the pretended Law, the proteſtation, Vow, and Covenant, Solemne League and Covenant, with many of their Ordinan<g ref="char:EOLhyphen"/>ces, Declarations and Remonſtrances ſpeake for his honour, with heede unto his Prerogative, and hath often promiſed to make him glorious, with ſafety, not ſecurity of his Majeſties ſacred Perſon and eſtate; but to ſuffer him to lye in priſon, is to maintaine a power above and againſt his Honour, eſtate, and Prerogative, and if not timely prevented, will prove deſtru<g ref="char:EOLhyphen"/>ctive to his Perſon, and the reſt which is an open breach of all the foreſaid pretended Law. Secondly <hi>the reall and true Law of this Land upholds this Truth, Stat.</hi> 6. <hi>Ed.</hi> 1. <hi>Liege Homage, every Subject owes unto the King,</hi> (viz) <hi>faith de membro, de vitâ, &amp; Terreno honore,</hi> which is confirmed not onely by the former pretended Law, but alſo by the <hi>Oa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of ſupremacy:</hi> which Oath was taken by every man now in both Houſes, though broken by them all; the words wherof to this purpoſe are theſe: I pro<g ref="char:EOLhyphen"/>miſe that hereafter that I will performe all faith, or Alegeance and true obedience to the Kings Majeſty, and his Heires and lawfull Succeſſors, and according to my power, to helpe and defend all Juriſdictions, Priviledges, Preeminencies, and Au<g ref="char:EOLhyphen"/>thorities granted or due, to the Kings Majeſty, his Heires, and
+<pb n="5" facs="tcp:161986:3"/>
+               <!-- PDF PAGE 114 -->Succeſſors, or united and annexed unto the Imperall Crowne of this Realme, ſo helpe me God, and the contents of this book.</p>
+            <p>Whoever hath taken this Oath, and doth not to the utmoſt of his power, labour to helpe his Majeſty out of priſon; muſt needes be as guilty of perjury, as they which keepe him priſo<g ref="char:EOLhyphen"/>ner: this therefore is a ſufficient Commiſſion, and is firmely made good by the Statute Law of the Land, as it is peremptori<g ref="char:EOLhyphen"/>ly injoyned 26. <hi>Hen.</hi> 8.2. Yee ſhall ſweare to beare <hi>faith, truth and obedience. all, onely unto the Kings Majeſty: to beare faith, truth and obedience;</hi> there is Commiſſion to doe him all neceſ<g ref="char:EOLhyphen"/>ſary ſervice. <hi>All,</hi> there the Commiſſion is derected unto every Engliſhman, <hi>onely to the Kings Majeſty,</hi> there all <hi>faith, truth, and obedience</hi> unto the two Houſes, and every other power whatſoever againſt or beſides his Majeſty in England is explo<g ref="char:EOLhyphen"/>ded and it is neither <hi>faith, truth, nor obedience</hi> to ſuffer the Kings Majeſty to be a Priſoner; and it was enacted, 14 <hi>Edw.</hi> 3.5. that all Officers take an Oath, <hi>well and lawfully to ſerve the King, and his people:</hi> Whereas permitting and ſuffering his ſacred Perſon to remaine in priſon in <hi>Carisborough Caſtle,</hi> is wicked and unlawfull ſervice unto both King and people; againe this Commiſſion is made good St. 7 <hi>Edw.</hi> 1. The words are theſe. <hi>To us (the King not any other) it belongeth, and our part is, through our Royall Seigniory ſtraightly to defend force of armour, and all other force againſt our peace at all times, when it ſhall pleaſe us, and to puniſh them who ſhall doe contrary, according to the Lawes and uſages of this Realme, and heereunto they are bound to aide us as their Soveraigne Lord at all ſeaſons, when need ſhall be. When need ſhall be</hi> there is their Commiſſion, for can there be more need then when a good<g ref="char:punc">▪</g> learned, wiſe, holy, religious mercifull, and conſcientious King, is traiterouſly and rebelliouſly impriſoned, and his Kingdome lies bleeding and gaſping at the brinck of ruin through Rebellion and Diviſions? See Stat. 25. <hi>Edw.</hi> 3.2. <hi>By the Law of the Land when Treaſon and Felony is committed, it is lawfull for every Subject,</hi>
+               <note place="margin">Vid. Judge Jenkins pag. 185.</note> 
+               <hi>who ſuſ<g ref="char:EOLhyphen"/>pects the Offendor to apprehend him and ſecure him, ſo that juſt<g ref="char:EOLhyphen"/>ice may be done upon him according to the Law.</hi>
+               <note place="margin">Idem p. 176.</note> To deliver his ſacred Majeſty out of traiterous hands, is every man of the
+<pb n="6" facs="tcp:161986:4"/>
+               <!-- PDF PAGE 115 -->Lands bounden duty;<note place="margin">Reade Judge Jenkins pag. 18.</note> whoſoever they be that ſhall under<g ref="char:EOLhyphen"/>take for the reſtitution of his Majeſty, though without Com<g ref="char:EOLhyphen"/>miſſion, have the Law of the Land for their Protection. 11. <hi>H.</hi> 7. chap. 1. which you may reade in<note n="*" place="margin">That Patri<g ref="char:EOLhyphen"/>ot of England.</note> 
+               <hi>Judge Jenkins</hi> pag. 89. but to incounter ſuch in fight as come to ayde the King in his war is guilty of high Treaſon: Thus you ſee every Engliſh Sub<g ref="char:EOLhyphen"/>ject hath ſufficient authority, <hi>and it is his bounden duty though without Commiſſion, to joyne and endeavour for the reſtitution of his Majeſty.</hi> 3. This is warranted unto us by the Law of God: it is a maxime amongſt the Divines, <hi>contra Rebelles omnis ho<g ref="char:EOLhyphen"/>mo miles,</hi> every man is to be a Souldier againſt a Rebell; but leſt wee faile, let us aſcend higher, St. <hi>Paul</hi> injoynes us to ren<g ref="char:EOLhyphen"/>der unto all their dues, <hi>tribute unto whom tribute is due, cuſtome to whom cuſtome,</hi>
+               <note place="margin">Rom. 13.7.</note> 
+               <hi>feare to whom feare, honour to whom honour,</hi> all which are in the higheſt due unto our gratious Soveraigne in his ſeverall Dominions. <hi>Tribute</hi> becauſe he is Gods Mini<g ref="char:EOLhyphen"/>ſter, <hi>cuſtome</hi> becauſe he is head over his people, <hi>feare</hi> becauſe he beareth not the ſword in vaine, <hi>honour</hi> becauſe he is our grea<g ref="char:EOLhyphen"/>teſt, that is Politicall Father, and therefore is he ſtiled <hi>Pater Patriae,</hi> the Father of the Countrey: all theſe dues therefore are due unto him in the firſt place, not unto any of his Subjects, but as their right and claime thereunto, is derived from him by the conveyance of the Law of God and the Land and all theſe being primary and principall dues due from us and all his ſub<g ref="char:EOLhyphen"/>jects; how much more a reſcue of his ſacred Perſon out of the Traytours hands, which you ſee is ſo ſtrongly injoyned us all by the Law of the Land? Whereunto St. <hi>Peter</hi> injoynes obedi<g ref="char:EOLhyphen"/>ence. <hi>Submit your ſelves unto every Ordinance of man for the Lords ſake, whether it be unto the King as ſupreame, or unto Governours as thoſe that are ſent of him,</hi> 1 Pet. 2.13. <hi>Submit unto every Ordinance of man,</hi> there muſt be no ſlighting nor neglecting the Law of the Land, but ſubmiſſion and obedience thereunto, for this is moſt certaine that not the Letter or Decla<g ref="char:EOLhyphen"/>ration of the Law of the Land, but the execution thereof. makes it good and profitable; for now by too dolefull and preſent experience, wee may ſee that when the Law is miſuſed, diſſembled with, or layd aſide, or condemned, or is done <hi>pro
+<pb n="7" facs="tcp:161986:4"/>
+                  <!-- PDF PAGE 115 -->forma tantum,</hi> and as they tearme it in France, <hi>Par maniere d'acquit</hi> only. it will be the certaine ruine (though not at firſt perceived) of the Common-wealth; therefore this muſt be done for the Lords ſake, becauſe the good of all, is the will of the <hi>Lord Paramount,</hi> the God of Heaven and earth, and our ſubmiſſion and obedience muſt be in this order, unto the King as ſupreame: impriſoning therefore and ſecuring his gratious Perſon, is not ſubmiſſion and obedience thereunto, becauſe it is an extirpating and expelling his ſupremacy:<note n="*" place="margin">For whoſo<g ref="char:EOLhyphen"/>ever is impri<g ref="char:EOLhyphen"/>ſoned, therein argues inferi<g ref="char:EOLhyphen"/>ority unto that power by which he is impriſoned.</note> On the contrary therefore a recovering and reſtoring his Majeſty unto his ſupre<g ref="char:EOLhyphen"/>macy, being ſo ſtrictly injoyned by the Law of the Land, is a ſubmiſſion and obedience to that ordinance of man: But I will come yet cloſer who they be that have exploded the ten Com<g ref="char:EOLhyphen"/>mandements (judge deare Reader) which are nevertheleſſe the rule of every conſcientious Chriſtians life, the liſt whereof is, <hi>honour thy Father and Mother, &amp;c.</hi> which is the firſt with promiſe: and that wee may the better underſtand the honour due, let us firſt conſider in the contrary <hi>diſhonour,</hi> and this ſhall be in <hi>Canaan</hi> ſon of <hi>Noah,</hi> who dealing undutifully and irre<g ref="char:EOLhyphen"/>verently towards his Father, procured a curſe; <hi>A ſervant of ſervants ſhalt thou be,</hi> Gen. 9.25. though his Father in ſome things was unexcuſable, but a wiſer then <hi>Noah</hi> hath denounced a curſe upon all undutifull children; <hi>the eye that mocketh at his Father, and dispiſeth to obey his Mother, the Ravens of the val<g ref="char:EOLhyphen"/>lies ſhall pick it out, and the yong Eagles ſhall eate it,</hi> Prov. 30.17. and if it be ſo odious to God and man for a childe to be un<g ref="char:EOLhyphen"/>dutifull unto his naturall Father, how much more for Naturall Subjects, when they impriſon their great Politicall Father, and naturall Soveraigne? whom in the receipt of that Homage of feare from his Subjects, God hath joyned with himſelfe, <hi>feare thou the Lord and the King,</hi> Prov. 24.21. but as God hath linckt himſelfe with his Vicegerent in that command of feare from their Subjects, doubtleſſely were they able, would have linckt them together in priſon; queſtionleſſe therefore a reſtitution of our gracious Soveraigne Lord the King, would be as accep<g ref="char:EOLhyphen"/>table in the eyes of the Almighty, as if it were a reſtitution of himſelfe; and if Gods juſtice will be ſo ſevere upon curſed cur<g ref="char:EOLhyphen"/>ſing
+<pb n="8" facs="tcp:161986:5"/>
+               <!-- PDF PAGE 116 -->thoughts againſt a King, <hi>that a bird of the aire ſhall carry the voice, and that which hath wings ſhall tell the matter,</hi> Eccleſ. 10.20. What will be his puniſhment of thoſe that impriſon their Liege Lord? How gratious and mercifull on the contrary, will he be unto them that ſhall reſtore his gracious Majeſty? This is an honour both of debt and duty, then which for the preſent Subjects can doe no greater, and is commanded you ſee both by the Law of God and the Land, this was the judgement of the childre<g ref="char:cmbAbbrStroke">̄</g> of Iſrael in ſuch a caſe, they were at a ſtrife for re<g ref="char:EOLhyphen"/>ſtitution of their King. <hi>And all the people were at ſtrife through<g ref="char:EOLhyphen"/>out all the Tribes of Iſrael, ſaying, the King ſaved us out of the hands of our enemies, and he delivered us out of the hand of the Philiſtins, and now he is fled out of the Land for</hi> Abſolom, <hi>and</hi> Abſolom <hi>whom wee annoynted over us is dead in battle; now therefore why speake yee not a word of bringing the King backe?</hi> 2 Sam. 19.9.10. It was likewiſe <hi>Davids</hi> judgement, <hi>And King</hi> David <hi>ſent to</hi> Zadock, <hi>and to</hi> Abiathar <hi>the Prieſts, ſaying, speake unto the Elders of Judah, ſaying, why are yee the laſt to bring the King back to his houſe? (ſeeing the speech of all Iſrael is come to the King, even to his houſe) yee are my bretheren, yee are my bones, and my fleſh; wherefore then are yee the laſt to bring back the King?</hi> ver. 11.12. who ever thou art then, that art a Chriſtian, and an Engliſhman, thou ſeeſt not only <hi>thy Com<g ref="char:EOLhyphen"/>miſſion and Authority, but thy duty from the Law of God, and the Land, to joyne and endeavour for the reſtitution of his Maje<g ref="char:EOLhyphen"/>ſty unto his Throne and Dignity;</hi> go on therefore ſtoutly and couragiouſly, God who hath given this Commiſſion, will in this cauſe keepe thee for himſelfe; looke up unto God as thy preſerver and keeper, and unto his Majeſty as the centre of all thy earthly hopes in this Kingdome, and then doſt thou rightly <hi>feare God and honour the King,</hi> and ſhalt prevaile at the laſt.</p>
+            <closer>God ſave the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
